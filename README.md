@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to academic system information
+ in this page you can learn our project on ASI for our homework project from school
+ # school
 
 You can use the [editor on GitHub](https://github.com/LoliPyon/academic/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
